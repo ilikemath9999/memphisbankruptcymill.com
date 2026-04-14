@@ -5,11 +5,12 @@
 memphisbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Memphis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://memphisbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Memphis: Red Flags and What to Watch For: https://memphisbankruptcymill.com/chapter-13-memphis.html
 - Chapter 7 Bankruptcy in Memphis: Costs, Timeline and What to Know: https://memphisbankruptcymill.com/chapter-7-memphis.html
 - How to Check Your Memphis Bankruptcy Attorney's Track Record: https://memphisbankruptcymill.com/how-to-check.html
+- Memphis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://memphisbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Memphis: https://memphisbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://memphisbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
